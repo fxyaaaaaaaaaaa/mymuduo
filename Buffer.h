@@ -4,7 +4,7 @@
 #include <string>
 #include <algorithm>
 
-// 网络库底层的缓冲器类型定义
+// 1网络库底层的缓冲器类型定义
 class Buffer
 {
 public:
